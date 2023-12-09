@@ -6,7 +6,7 @@ categories: ["dynamic-realtime", "all-profile"]
 githubUsername: 'hazmyla'
 ---
 
-# Hey there ! I am Sharannyo Basu ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hey there ! I am Mohammad Hazmy ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 
 ### Here are some ideas to help you get started:
